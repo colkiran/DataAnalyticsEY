@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,UnitPrice,Discount
+1001,Laptop,Electronics,2,50000,0.10
+1002,Chair,Furniture,4,3500,0.05
+1003,Mouse,Electronics,5,800,0.00
+1004,Desk,Furniture,2,7000,0.10
+1005,Monitor,Electronics,3,12000,0.05
+1006,Keyboard,Electronics,10,1500,0.10
+1007,Sofa,Furniture,1,45000,0.05
+1008,Table,Furniture,3,8000,0.10
+1009,Headphones,Electronics,4,2500,0.00
+1010,Bookshelf,Furniture,2,6000,0.05
