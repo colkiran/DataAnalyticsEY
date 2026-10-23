@@ -1,0 +1,22 @@
+Numpy, Pandas
+-------------
+
+scikit, TensorFlow, pytorch, keras etc...
+
+What is - 
+
+1. Machine Learning
+
+2. Artificial Intelligence
+
+3. Deep Learning
+
+4. Generative AI, Agentic AI
+
+
+Numpy
+-----
+Numpy serves as a foundational bedrock for pandas
+
+
+

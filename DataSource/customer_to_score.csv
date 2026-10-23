@@ -1,0 +1,11 @@
+CustomerID,TenureMonths,MonthlySpend,SupportCalls,ContractType
+C1001,3,5500,7,Monthly
+C1002,48,1800,1,TwoYear
+C1003,12,3200,5,Monthly
+C1004,60,2400,0,Annual
+C1005,8,4700,6,Monthly
+C1006,36,2800,2,Annual
+C1007,2,1800,4,Monthly
+C1008,55,5200,1,TwoYear
+C1009,18,3900,3,Annual
+C1010,30,2200,0,TwoYear

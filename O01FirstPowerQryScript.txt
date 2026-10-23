@@ -1,0 +1,9 @@
+import pandas
+
+# power bi passes the current power query table to Python as a Dataframe named dataset
+
+result = dataset.copy()
+
+# Ensure the numeric columns have the correct datatype
+
+result["Quantity"]

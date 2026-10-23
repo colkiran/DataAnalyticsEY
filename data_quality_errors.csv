@@ -1,0 +1,6 @@
+Row,SalesID,Rule,Details
+7,S106,Completeness,Quantity is missing
+3,S102,Uniqueness,Duplicate SalesID
+4,S102,Uniqueness,Duplicate SalesID
+5,S104,Business rule,Quantity must be positive
+6,S105,Business rule,Price cannot be negative

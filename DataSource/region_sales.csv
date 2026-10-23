@@ -1,0 +1,1001 @@
+Order_ID,Sales,Quantity,Discount,Category,Region,Ship_Mode,Customer_Satisfaction,Profit
+1001,890.7046656386757,6,0.0,Office Supplies,North,Standard,2,196.61
+1002,611.7985995755636,3,0.2,Technology,North,Same Day,1,80.09
+1003,575.5701417133156,6,0.05,Office Supplies,North,Standard,5,194.96
+1004,575.5762188619362,2,0.5,Furniture,West,Standard,2,-110.94
+1005,1541.5349842965984,8,0.0,Furniture,West,Standard,4,425.09
+1006,1031.6130637503663,2,0.1,Office Supplies,West,Express,4,179.22
+1007,492.78501891326965,7,0.2,Furniture,East,Standard,5,78.58
+1008,913.6024246874128,9,0.1,Office Supplies,North,Same Day,2,211.16
+1009,770.4064841885829,1,0.0,Furniture,North,Express,4,165.44
+1010,150.91418111596494,8,0.2,Technology,West,Standard,2,74.73
+1011,10000.0,7,0.2,Office Supplies,North,Express,2,4.65
+1012,803.3628422042569,6,0.2,Technology,North,Standard,4,47.52
+1013,1461.8775802335904,6,0.1,Technology,South,Standard,1,345.96
+1014,578.6765324795577,6,0.2,Office Supplies,North,Express,4,58.44
+1015,468.2046407266339,9,0.1,Technology,South,Standard,5,147.79
+1016,712.9836811111032,2,0.2,Office Supplies,North,Standard,3,126.48
+1017,450.29219110922867,1,0.2,Technology,East,Standard,4,-39.98
+1018,554.5329033016469,6,0.2,Office Supplies,West,Standard,2,113.78
+1019,661.1716150556932,10,0.05,Office Supplies,South,Same Day,2,209.91
+1020,321.37781389241695,8,0.0,Furniture,West,Standard,4,177.76
+1021,1062.0064171284891,3,0.05,Office Supplies,South,Express,3,-1500.0
+1022,282.1468267310103,10,0.0,Office Supplies,South,Standard,4,171.33
+1023,258.15828179681006,1,0.1,Technology,South,Express,3,21.72
+1024,750.3077171218175,9,0.2,Office Supplies,East,Standard,3,141.94
+1025,1015.8722057122842,1,0.05,Furniture,North,Standard,5,214.53
+1026,739.1032671685106,3,0.5,Technology,South,Express,2,-87.37
+1027,620.5592266560351,8,0.0,Technology,East,Standard,2,196.85
+1028,551.1420949666958,3,0.3,Furniture,South,Standard,3,-52.13
+1029,495.7398069696901,4,0.2,Technology,North,Standard,2,-49.56
+1030,1198.0589697612818,8,0.1,Technology,South,Express,1,245.03
+1031,,1,0.0,Technology,East,Standard,3,197.75
+1032,521.4910657188632,6,0.2,Technology,North,Same Day,2,85.66
+1033,426.7409353364774,1,0.1,Furniture,East,Standard,1,66.59
+1034,948.8591038400307,1,0.5,Furniture,North,Standard,5,-90.42
+1035,1182.3644035572433,8,0.2,Technology,North,Express,2,142.66
+1036,1123.7133944337436,4,0.5,Technology,West,Express,1,-192.29
+1037,379.39673476176836,1,0.05,Furniture,West,Express,4,95.53
+1038,548.2312998059587,10,0.2,Furniture,West,Same Day,4,78.85
+1039,489.55476045819273,7,0.2,Furniture,North,Standard,1,77.42
+1040,593.7078587489804,5,0.2,Technology,South,Standard,3,29.88
+1041,1056.4370713552366,5,,Technology,East,Standard,3,243.91
+1042,1387.7765454839941,1,0.2,Office Supplies,East,Express,2,99.3
+1043,825.4705082051221,10,0.1,Furniture,East,Express,4,146.91
+1044,436.4569101651652,6,0.2,Technology,West,Standard,3,134.07
+1045,652.1474454741076,9,0.1,Furniture,North,Standard,3,114.67
+1046,1531.1578309766608,9,0.3,Technology,West,Standard,4,37.59
+1047,702.8386559900729,8,0.0,Furniture,South,Express,5,187.61
+1048,551.896298185194,5,0.3,Technology,North,Standard,3,32.64
+1049,580.9471998657685,1,0.3,Office Supplies,East,Standard,1,-42.51
+1050,823.3429429073526,9,0.3,Office Supplies,West,Standard,2,70.3
+1051,,1,0.2,Furniture,West,Express,3,107.31
+1052,482.08895963327825,8,0.1,Technology,South,Express,3,90.16
+1053,1114.5574853705057,5,0.5,Technology,South,Express,5,-127.45
+1054,810.0866483764873,3,0.05,Furniture,West,Standard,1,169.73
+1055,707.0889351621025,7,0.2,Technology,South,Standard,2,144.27
+1056,1145.4570589000175,7,0.2,Furniture,East,Express,3,203.23
+1057,419.16589108000386,9,0.2,Technology,South,Same Day,2,70.35
+1058,541.6465621603977,7,0.05,Furniture,South,Standard,4,94.18
+1059,795.0117617598951,3,0.2,Technology,West,Standard,3,111.78
+1060,779.022066177452,1,0.3,Furniture,West,Standard,3,8.96
+1061,239.70660122179032,8,0.0,Technology,North,Standard,4,117.49
+1062,509.26211321392645,3,0.5,Office Supplies,North,Express,5,-86.02
+1063,602.9660181501122,8,0.0,Technology,West,Standard,3,159.78
+1064,845.5985205634812,8,0.1,Furniture,South,Standard,2,220.14
+1065,777.4357246293811,5,0.0,Office Supplies,South,Standard,1,230.55
+1066,636.7337589003118,1,0.0,Technology,North,Standard,2,113.66
+1067,150.08307702783017,10,0.5,Office Supplies,North,Standard,5,47.78
+1068,655.9008987890107,7,0.1,Technology,North,Standard,1,160.24
+1069,691.5590923216175,10,0.1,Office Supplies,East,Standard,2,152.72
+1070,2262.656013903363,5,0.05,Furniture,East,Express,2,551.19
+1071,,8,0.2,Technology,North,Standard,4,65.66
+1072,797.5058945299378,9,0.2,Technology,South,Standard,5,102.89
+1073,1250.5222084547333,7,0.1,Furniture,North,Same Day,4,268.24
+1074,1023.169605687521,7,0.1,Office Supplies,East,Express,1,206.51
+1075,1418.9931810092305,1,0.3,Furniture,South,Express,4,-50.55
+1076,242.5083077779198,4,0.1,Furniture,East,Standard,5,66.45
+1077,338.53476947984467,2,0.1,Office Supplies,South,Standard,3,51.35
+1078,461.1712761569972,2,0.05,Furniture,East,Standard,3,135.69
+1079,212.84880390349016,2,0.3,Technology,South,Standard,1,14.23
+1080,695.0509515610502,4,0.1,Technology,South,Standard,3,137.99
+1081,357.3514055153322,1,,Technology,South,Same Day,4,-3.1
+1082,1520.7282456244607,4,0.05,Furniture,South,Standard,1,327.5
+1083,395.3040853320231,2,0.5,Technology,West,Standard,5,-25.22
+1084,543.6398258825595,5,0.05,Technology,East,Standard,1,110.63
+1085,1056.9872913876347,3,0.3,Technology,East,Standard,1,8.58
+1086,279.8470718764835,8,0.1,Technology,West,Express,2,53.4
+1087,202.19572666192644,4,0.05,Technology,South,Standard,2,20.52
+1088,744.9196172217733,1,0.3,Technology,South,Express,1,-1.69
+1089,778.4911519314777,1,0.1,Furniture,East,Same Day,3,139.53
+1090,1039.4914414278987,10,0.3,Technology,West,Standard,2,114.59
+1091,903.25656240127,3,0.5,Technology,South,Standard,5,-159.01
+1092,795.408666247099,9,0.3,Office Supplies,South,Same Day,4,39.27
+1093,425.8008116701502,7,0.0,Furniture,South,Express,2,97.7
+1094,766.0500260176605,2,0.3,Furniture,North,Standard,1,27.6
+1095,793.6133563156518,9,0.1,Furniture,West,Same Day,3,189.88
+1096,415.49181173148577,10,0.3,Furniture,South,Standard,4,100.02
+1097,1755.2860531557665,2,0.2,Technology,North,Same Day,2,189.33
+1098,879.4211583388236,3,0.3,Technology,West,Standard,3,22.9
+1099,342.6713173848373,10,0.1,Office Supplies,South,Standard,3,90.09
+1100,1042.3825433913303,2,0.2,Office Supplies,East,Express,3,100.55
+1101,1142.3741230628477,3,0.0,Furniture,North,Standard,1,296.71
+1102,849.7815781828081,6,0.3,Office Supplies,North,Standard,5,59.12
+1103,571.4215494301511,9,0.1,Office Supplies,South,Standard,3,168.2
+1104,403.8703428744953,9,0.2,Furniture,South,Same Day,4,66.94
+1105,635.682816206663,7,0.3,Furniture,North,Express,2,-19.35
+1106,815.8652307953012,3,0.2,Office Supplies,East,Express,4,126.94
+1107,671.9887666940011,4,0.05,Technology,East,Standard,1,179.8
+1108,1453.5456683024431,6,0.2,Office Supplies,West,Express,1,135.1
+1109,956.1046721240369,5,0.1,Office Supplies,South,Standard,4,201.76
+1110,374.3892808496202,2,0.1,Technology,East,Standard,5,74.39
+1111,318.08066603078294,6,0.0,Technology,West,Express,1,155.67
+1112,883.6703172284161,3,0.05,Furniture,East,Standard,1,130.82
+1113,579.5363965355529,8,0.05,Furniture,South,Standard,4,146.35
+1114,1002.7031006944995,2,0.2,Office Supplies,West,Standard,1,146.18
+1115,879.1288766695358,1,0.0,Technology,West,Standard,5,244.49
+1116,637.3742014893003,9,0.1,Furniture,West,Express,5,212.21
+1117,377.27664284314983,3,0.5,Office Supplies,East,Standard,5,-93.79
+1118,219.75251929019603,1,0.0,Technology,South,Express,2,97.47
+1119,757.9453914512952,7,0.2,Office Supplies,West,Standard,5,131.06
+1120,276.45646023357926,10,0.3,Furniture,North,Standard,5,-10.24
+1121,367.0186488998895,5,0.5,Furniture,South,Standard,2,-49.57
+1122,731.4145604450275,5,0.2,Technology,North,Express,3,79.78
+1123,690.7137493315907,1,0.2,Office Supplies,North,Express,1,3.57
+1124,300.44972870827286,9,0.3,Technology,West,Same Day,5,33.89
+1125,1213.773907387675,7,0.1,Furniture,West,Express,1,265.83
+1126,1196.0565455087449,8,0.3,Furniture,East,Standard,4,20.34
+1127,899.8086896826474,9,0.0,Office Supplies,East,Express,1,278.43
+1128,899.1859246953067,6,0.5,Office Supplies,East,Same Day,2,-118.63
+1129,899.81488185494,5,0.1,Office Supplies,South,Express,1,173.04
+1130,1136.9026446492182,6,0.2,Technology,East,Standard,1,96.27
+1131,969.5224204903412,2,0.05,Office Supplies,North,Standard,1,234.23
+1132,398.3164688242012,4,0.2,Office Supplies,East,Express,3,-3.68
+1133,574.5841553302008,3,0.0,Furniture,West,Express,3,158.95
+1134,2128.4081888360984,7,0.3,Furniture,East,Standard,4,72.85
+1135,157.9998563303045,9,0.3,Office Supplies,South,Express,2,28.55
+1136,491.965285677878,5,0.05,Office Supplies,South,Same Day,1,101.63
+1137,1217.368445363395,6,0.3,Furniture,North,Standard,1,49.31
+1138,415.2082172267549,10,0.3,Office Supplies,South,Express,1,53.64
+1139,984.3787478126158,2,0.2,Technology,East,Standard,1,114.84
+1140,685.4448950882222,3,0.1,Technology,West,Standard,3,129.45
+1141,434.46517123668036,3,0.05,Technology,South,Standard,4,21.56
+1142,134.57928862145403,9,0.05,Office Supplies,North,Standard,5,114.22
+1143,745.7201772666011,7,0.1,Furniture,East,Express,2,230.49
+1144,392.6397561811845,8,0.5,Office Supplies,North,Standard,1,16.23
+1145,620.914183785728,10,0.0,Office Supplies,South,Standard,4,81.37
+1146,894.8080581572888,9,0.3,Furniture,South,Standard,5,56.31
+1147,1086.2501509578685,6,0.1,Furniture,North,Standard,4,192.9
+1148,490.9613423686364,4,0.2,Furniture,East,Standard,3,21.33
+1149,433.93484330671083,1,0.3,Technology,South,Express,5,7.13
+1150,273.03239261714486,8,0.3,Office Supplies,West,Standard,4,33.42
+1151,1115.972656288442,7,0.1,Furniture,South,Express,3,236.94
+1152,1962.5194778897232,2,0.1,Office Supplies,East,Express,4,335.8
+1153,1183.2413703540833,8,0.1,Technology,South,Standard,4,196.01
+1154,1329.1663269048497,5,0.0,Technology,North,Express,5,337.11
+1155,417.48534518950476,7,0.05,Furniture,South,Standard,3,95.8
+1156,864.7655206231212,4,0.1,Furniture,South,Standard,1,102.61
+1157,1035.5501340613077,5,0.1,Office Supplies,East,Standard,2,147.86
+1158,25.829692538509715,8,0.2,Furniture,North,Standard,5,34.68
+1159,329.8145100143961,1,0.1,Office Supplies,East,Standard,3,109.25
+1160,1579.8246534141956,1,0.1,Furniture,South,Express,4,246.93
+1161,236.67041543183842,4,0.1,Office Supplies,West,Standard,3,32.54
+1162,1445.1455726094705,3,0.2,Office Supplies,South,Express,2,89.27
+1163,235.50140201076997,10,0.3,Office Supplies,East,Standard,2,49.89
+1164,340.88602239912336,2,0.2,Office Supplies,West,Express,1,78.54
+1165,873.674100686915,3,0.3,Technology,East,Standard,1,80.73
+1166,695.5712045234734,1,0.05,Office Supplies,East,Standard,2,159.32
+1167,521.410897780225,1,0.2,Furniture,North,Standard,5,51.61
+1168,1546.3972782027176,6,0.1,Technology,West,Standard,5,266.13
+1169,278.2591304354869,5,0.1,Technology,South,Standard,4,57.73
+1170,606.6007260074834,8,0.2,Office Supplies,East,Express,1,110.55
+1171,936.8438417292068,2,0.3,Technology,South,Standard,4,-5.7
+1172,788.0866166062622,4,0.0,Office Supplies,North,Express,1,211.34
+1173,443.39446749852175,8,0.2,Furniture,North,Express,2,74.58
+1174,453.8446484171466,6,0.2,Office Supplies,West,Express,5,45.63
+1175,1077.1445188235446,1,0.0,Technology,North,Standard,5,271.66
+1176,1105.4947758937717,4,0.05,Furniture,North,Standard,2,178.71
+1177,800.15512930556,1,0.1,Office Supplies,South,Same Day,4,156.23
+1178,382.2699291742522,2,0.05,Furniture,North,Express,4,171.63
+1179,463.1272188032039,5,0.05,Furniture,North,Standard,3,101.78
+1180,658.1699812724958,8,0.05,Technology,East,Standard,1,189.65
+1181,715.7216710096023,8,0.1,Furniture,North,Standard,4,187.9
+1182,915.8897075779515,3,0.2,Technology,East,Standard,2,133.08
+1183,587.4818151095369,4,0.2,Furniture,North,Express,4,57.75
+1184,1063.6061735257472,10,0.5,Office Supplies,North,Standard,5,-199.25
+1185,1056.9830830350536,6,0.1,Furniture,West,Standard,1,213.76
+1186,1354.2644771982684,10,0.3,Office Supplies,West,Standard,3,47.73
+1187,675.2782650931186,3,0.3,Office Supplies,East,Standard,1,-0.47
+1188,807.9571616674051,2,0.2,Furniture,North,Express,5,69.96
+1189,614.9349233425501,6,0.1,Office Supplies,South,Express,5,136.49
+1190,385.3138826025561,5,0.3,Furniture,West,Standard,5,35.74
+1191,1937.6625017086924,10,0.05,Furniture,South,Express,5,463.26
+1192,1260.039140537109,5,0.1,Office Supplies,West,Standard,2,225.29
+1193,1044.9023696826252,10,0.2,Office Supplies,West,Standard,3,147.04
+1194,661.6794307937026,5,0.2,Technology,North,Standard,5,67.96
+1195,363.35708840555844,10,0.0,Office Supplies,West,Standard,5,163.31
+1196,1149.2531744690536,5,0.5,Technology,South,Standard,4,-198.08
+1197,608.4148658380142,3,0.2,Office Supplies,West,Standard,3,66.23
+1198,849.8538248438954,7,0.1,Furniture,East,Express,1,118.4
+1199,461.9934321795964,6,0.5,Office Supplies,North,Standard,3,-63.8
+1200,771.7579202503073,4,0.1,Furniture,North,Express,3,167.2
+1201,480.38522778844,2,0.5,Furniture,East,Standard,3,-110.25
+1202,492.26324225620107,9,0.2,Furniture,East,Same Day,5,73.18
+1203,765.9587707586046,1,0.0,Technology,East,Express,5,112.31
+1204,233.01676497636115,4,0.3,Office Supplies,West,Standard,2,-29.05
+1205,241.34254062531474,1,0.2,Furniture,North,Express,1,-14.42
+1206,414.2738801509534,6,0.3,Furniture,East,Standard,4,31.49
+1207,583.2687329051757,4,0.5,Technology,West,Express,3,-70.4
+1208,1081.6802242924255,5,0.3,Office Supplies,East,Standard,1,17.63
+1209,603.4805316431546,5,0.2,Office Supplies,South,Express,1,59.89
+1210,659.1372359194323,9,0.3,Technology,South,Express,2,28.44
+1211,555.6295432291921,1,0.2,Technology,North,Standard,4,74.51
+1212,807.2854803505203,2,0.1,Office Supplies,West,Standard,3,150.65
+1213,382.76721036099235,6,0.3,Technology,South,Express,4,16.4
+1214,623.2439582167639,5,0.05,Office Supplies,South,Standard,2,199.59
+1215,844.4800488301128,7,0.2,Office Supplies,West,Standard,5,170.81
+1216,762.4006337669948,3,0.3,Furniture,East,Standard,1,-32.41
+1217,671.8207181269769,3,0.2,Furniture,West,Standard,3,87.03
+1218,676.7230492830506,10,0.2,Office Supplies,East,Same Day,5,212.28
+1219,891.3407618823555,2,0.3,Office Supplies,South,Standard,2,15.35
+1220,1988.6516208005687,3,0.1,Office Supplies,South,Standard,4,347.17
+1221,399.90492370589317,10,0.3,Office Supplies,South,Express,1,46.05
+1222,2019.7927905052836,1,0.05,Office Supplies,North,Express,3,441.26
+1223,388.131403758264,5,0.0,Office Supplies,North,Standard,5,148.45
+1224,121.17699171640362,5,0.05,Technology,North,Standard,5,6.58
+1225,474.238911389264,7,0.2,Office Supplies,West,Same Day,1,72.01
+1226,816.1473841283083,4,0.2,Technology,South,Express,4,5.86
+1227,1763.3912654379797,3,0.3,Technology,South,Standard,2,-1.14
+1228,363.0411139677464,1,0.1,Office Supplies,West,Standard,4,33.31
+1229,888.3321524547126,8,0.1,Office Supplies,North,Standard,4,198.45
+1230,259.88703036944986,3,0.0,Technology,West,Standard,4,22.0
+1231,1728.7090709936992,2,0.1,Technology,North,Standard,1,277.31
+1232,1273.3972555824616,4,0.2,Office Supplies,South,Express,1,155.7
+1233,492.8847285747196,3,0.0,Office Supplies,East,Standard,2,114.55
+1234,1386.201285795539,1,0.05,Technology,North,Express,4,225.96
+1235,620.9907315653855,3,0.05,Technology,South,Standard,1,152.87
+1236,1310.4392586669373,2,0.0,Technology,South,Express,2,317.08
+1237,668.8096902954151,8,0.1,Furniture,East,Express,2,143.85
+1238,686.0309330647672,6,0.05,Technology,South,Standard,4,146.81
+1239,499.29120325844724,9,0.2,Furniture,South,Standard,3,154.05
+1240,954.642658012768,8,0.3,Office Supplies,North,Standard,4,-19.31
+1241,716.9929431329366,10,0.2,Office Supplies,North,Express,3,206.53
+1242,899.5113410596338,3,0.5,Technology,East,Express,2,-156.09
+1243,216.02048395397205,5,0.1,Office Supplies,East,Standard,1,67.06
+1244,1336.140681107047,7,0.2,Office Supplies,South,Standard,5,121.77
+1245,1521.5897597476662,5,0.5,Office Supplies,North,Standard,2,-262.86
+1246,715.0144663137177,8,0.05,Office Supplies,East,Express,1,160.9
+1247,1911.474763506113,5,0.5,Furniture,East,Standard,2,-288.46
+1248,1670.7173710383752,1,0.0,Furniture,West,Standard,4,373.3
+1249,966.3736299206081,5,0.1,Technology,East,Standard,3,197.2
+1250,1396.0404099993568,4,0.0,Technology,South,Standard,2,292.55
+1251,1198.8449836275486,6,0.2,Technology,North,Express,1,135.48
+1252,175.58216586226737,3,0.2,Office Supplies,East,Standard,4,58.77
+1253,562.6192530021005,5,0.2,Office Supplies,West,Express,5,25.4
+1254,1004.6024002472104,2,0.1,Furniture,North,Standard,4,199.52
+1255,1577.0718790707213,6,0.1,Furniture,East,Standard,3,292.02
+1256,247.06118415079584,6,0.0,Technology,West,Express,4,147.71
+1257,185.03245520610292,5,0.1,Furniture,East,Same Day,5,25.6
+1258,644.2455706277717,6,0.5,Furniture,North,Express,1,15.82
+1259,128.7237782998406,7,0.1,Furniture,North,Standard,2,-27.44
+1260,630.941414558503,5,0.3,Furniture,North,Standard,3,10.31
+1261,827.8086559907854,1,0.3,Furniture,South,Express,5,-58.59
+1262,351.86915142279986,8,0.1,Technology,East,Standard,3,162.85
+1263,641.4040252199858,4,0.2,Technology,South,Standard,4,62.15
+1264,1137.5674109924341,9,0.0,Furniture,North,Express,3,323.38
+1265,472.77561432959675,10,0.0,Technology,West,Express,5,183.71
+1266,392.538768305117,6,0.0,Office Supplies,East,Same Day,2,127.97
+1267,623.9193779676292,1,0.2,Furniture,South,Same Day,2,34.13
+1268,327.0503392083183,3,0.1,Office Supplies,East,Express,3,24.98
+1269,1833.4439348222631,3,0.2,Technology,West,Standard,1,167.57
+1270,681.1668266224009,10,0.2,Technology,South,Standard,3,117.75
+1271,419.8636772973602,4,0.1,Office Supplies,North,Standard,4,113.62
+1272,757.8947696981004,6,0.2,Technology,South,Standard,2,157.58
+1273,621.8523619975873,7,0.3,Furniture,East,Standard,2,-44.19
+1274,580.463991891137,10,0.0,Office Supplies,East,Standard,2,192.75
+1275,472.69655578292173,4,0.05,Furniture,East,Standard,1,159.8
+1276,458.1378577398299,6,0.2,Office Supplies,East,Standard,1,62.29
+1277,219.68554364292635,1,0.1,Technology,North,Standard,5,-40.59
+1278,1394.8664889362929,8,0.2,Office Supplies,South,Standard,3,106.4
+1279,930.8332777024193,7,0.1,Office Supplies,North,Standard,3,200.09
+1280,801.9780353307998,9,0.1,Furniture,North,Express,4,187.55
+1281,615.7962363341898,3,0.05,Technology,North,Standard,2,166.32
+1282,347.7100751977754,2,0.05,Furniture,East,Standard,1,54.81
+1283,403.10661028746546,1,0.2,Technology,East,Express,4,46.34
+1284,238.28855877625068,3,0.1,Furniture,East,Standard,4,21.21
+1285,436.00977846670577,5,0.3,Office Supplies,South,Standard,1,31.92
+1286,315.4319136121998,2,0.3,Furniture,West,Standard,3,10.29
+1287,1619.873191926961,3,0.2,Technology,East,Standard,2,115.86
+1288,1095.2543105239108,4,0.3,Technology,South,Same Day,3,69.06
+1289,698.7535931703031,7,0.1,Office Supplies,East,Standard,4,90.6
+1290,373.24371224968417,3,0.1,Technology,East,Express,2,71.63
+1291,326.54175330852684,9,0.2,Furniture,North,Standard,5,41.62
+1292,591.9411947638228,8,0.1,Office Supplies,North,Standard,4,201.87
+1293,1120.7655953413434,4,0.2,Technology,North,Standard,3,130.61
+1294,243.19202978165512,1,0.05,Technology,South,Standard,3,32.74
+1295,923.9207782181735,1,0.2,Furniture,West,Standard,3,69.12
+1296,434.75915151587486,1,0.3,Furniture,West,Standard,1,67.97
+1297,486.91741147208444,1,0.3,Office Supplies,South,Standard,4,-30.55
+1298,686.6723817597681,8,0.2,Technology,East,Express,2,33.18
+1299,381.71929876301476,3,0.2,Furniture,South,Standard,3,55.72
+1300,573.7971916320465,6,0.2,Office Supplies,East,Express,3,86.88
+1301,360.55606263970617,3,0.2,Technology,South,Express,1,67.16
+1302,457.8349194769419,5,0.0,Technology,South,Standard,2,163.0
+1303,1025.0492050732012,7,0.1,Office Supplies,South,Standard,4,266.11
+1304,708.0467100824592,2,0.1,Office Supplies,West,Standard,5,66.69
+1305,1022.873102852595,6,0.5,Furniture,North,Express,1,-191.1
+1306,431.0911829196371,6,0.1,Technology,South,Standard,4,124.31
+1307,927.7978787930175,3,0.2,Technology,West,Express,5,50.53
+1308,198.5215151346361,6,0.2,Technology,North,Standard,3,-5.1
+1309,686.4905745173259,10,0.2,Office Supplies,North,Express,3,170.22
+1310,962.8309082278894,10,0.2,Furniture,South,Standard,2,70.33
+1311,192.3999168694587,5,0.05,Technology,East,Express,5,52.63
+1312,434.3928273945571,2,0.2,Office Supplies,East,Standard,3,42.67
+1313,686.2049165016064,9,0.3,Technology,East,Standard,3,87.39
+1314,1167.647253574662,8,0.1,Furniture,South,Standard,2,167.25
+1315,457.79661585876477,3,0.05,Technology,East,Standard,4,124.53
+1316,907.1925698924601,8,0.2,Furniture,West,Same Day,3,81.41
+1317,1445.3475284485453,9,0.3,Furniture,West,Standard,1,59.74
+1318,931.09603389079,3,0.0,Technology,West,Standard,1,216.04
+1319,587.1618892380308,3,0.3,Technology,West,Standard,4,67.09
+1320,829.955324955532,2,0.3,Furniture,North,Standard,5,-25.68
+1321,449.24127736483746,8,0.1,Office Supplies,West,Standard,2,27.96
+1322,702.6452965363976,10,0.5,Furniture,East,Express,1,-100.57
+1323,605.1099254760583,1,0.3,Technology,South,Standard,1,-7.17
+1324,814.2085166861443,8,0.3,Technology,East,Same Day,4,73.81
+1325,512.2593039502968,7,0.2,Office Supplies,West,Standard,5,31.94
+1326,841.015116982506,7,0.05,Furniture,North,Standard,5,166.16
+1327,509.14641800595774,3,0.05,Furniture,West,Express,4,154.27
+1328,1089.2883122993778,1,0.1,Furniture,South,Express,1,136.6
+1329,542.2292397511891,4,0.05,Technology,East,Standard,2,126.25
+1330,132.76371468832568,9,0.1,Furniture,South,Express,1,61.35
+1331,333.9948730844327,5,0.3,Office Supplies,South,Standard,5,30.95
+1332,674.2142436362043,1,0.3,Technology,South,Standard,1,-24.62
+1333,1611.9877558904143,5,0.2,Technology,East,Express,2,121.51
+1334,1065.8313495900336,8,0.3,Furniture,West,Standard,3,46.39
+1335,110.10426474820036,8,0.3,Office Supplies,South,Standard,1,8.09
+1336,226.89242487505516,5,0.1,Technology,East,Express,4,14.84
+1337,1251.10053008824,9,0.05,Technology,North,Same Day,3,347.58
+1338,959.8031824248868,1,0.2,Furniture,East,Standard,4,98.87
+1339,2089.728205381222,4,0.2,Furniture,North,Standard,4,249.04
+1340,496.1681252411892,3,0.1,Office Supplies,East,Standard,4,124.31
+1341,376.42519624642136,2,0.2,Furniture,West,Same Day,1,-4.27
+1342,696.3123495314281,8,0.0,Office Supplies,South,Express,5,217.45
+1343,490.05895042421326,7,0.2,Technology,West,Standard,3,38.66
+1344,1186.2809575087829,9,0.3,Office Supplies,East,Standard,2,-18.74
+1345,479.377518649325,2,0.2,Office Supplies,South,Standard,5,32.7
+1346,562.448609224517,4,0.5,Office Supplies,North,Express,1,-44.07
+1347,341.60309157496334,6,0.3,Technology,East,Express,4,37.91
+1348,1025.9181966335348,3,0.5,Furniture,South,Express,2,-213.22
+1349,356.6134905408442,8,0.5,Technology,North,Same Day,3,-39.29
+1350,850.0954884776726,3,0.3,Furniture,North,Standard,5,5.75
+1351,1763.8793022240163,2,0.2,Office Supplies,West,Standard,5,91.99
+1352,172.25185627740046,3,0.0,Office Supplies,East,Standard,2,83.02
+1353,1482.9222214734395,6,0.1,Office Supplies,North,Standard,1,266.68
+1354,787.6196775876041,2,0.2,Office Supplies,South,Standard,3,24.34
+1355,304.6643509153293,8,0.1,Office Supplies,North,Standard,2,39.62
+1356,712.3315960144876,1,0.1,Furniture,North,Express,4,161.06
+1357,1009.0220347105492,7,0.5,Furniture,West,Express,3,-154.91
+1358,393.22701581497665,2,0.3,Office Supplies,West,Standard,5,49.7
+1359,878.2605748876744,10,0.3,Technology,South,Standard,2,100.63
+1360,1551.5320404913411,6,0.1,Technology,West,Standard,5,321.79
+1361,478.9846584547943,2,0.0,Office Supplies,North,Express,5,111.08
+1362,338.7768776061939,2,0.0,Furniture,North,Express,5,7.27
+1363,616.6216157629963,10,0.1,Technology,West,Standard,1,162.7
+1364,689.6760201594141,8,0.0,Technology,North,Standard,5,285.62
+1365,1220.5677403785119,2,0.0,Technology,North,Standard,4,313.9
+1366,604.2183854689736,7,0.5,Office Supplies,South,Standard,4,-140.38
+1367,507.13774515904487,3,0.2,Technology,West,Standard,3,31.95
+1368,332.96120747237757,8,0.1,Technology,North,Express,5,88.51
+1369,193.59036540490825,7,0.0,Technology,West,Express,5,44.97
+1370,266.5380611168595,8,0.2,Technology,South,Standard,2,-28.42
+1371,265.40575251072903,7,0.0,Furniture,West,Express,1,97.93
+1372,566.2053916180027,6,0.5,Office Supplies,North,Same Day,3,-96.56
+1373,222.04050523867897,7,0.1,Office Supplies,West,Standard,5,133.68
+1374,644.7456337289482,5,0.1,Furniture,North,Standard,2,134.92
+1375,1742.2266881165353,7,0.1,Furniture,North,Same Day,1,338.9
+1376,1240.4543206157425,1,0.0,Office Supplies,North,Standard,3,310.95
+1377,562.8081799581101,1,0.2,Technology,South,Same Day,3,53.31
+1378,2365.7106667690496,9,0.2,Technology,West,Same Day,5,176.43
+1379,691.1359038656151,5,0.2,Office Supplies,South,Express,3,43.89
+1380,750.8482995264858,5,0.0,Technology,West,Express,2,250.81
+1381,609.4513776805692,3,0.2,Furniture,South,Express,3,71.09
+1382,653.3843989225113,5,0.2,Technology,East,Express,4,63.32
+1383,468.51370509472173,3,0.3,Technology,North,Standard,2,29.67
+1384,567.8964422229993,9,0.1,Technology,North,Standard,1,156.41
+1385,1488.4586794878362,9,0.1,Office Supplies,South,Standard,1,360.28
+1386,1315.7435606728964,6,0.2,Furniture,East,Express,5,140.97
+1387,127.91426175713877,1,0.2,Technology,North,Standard,5,-21.95
+1388,241.33260363020787,7,0.1,Office Supplies,West,Standard,4,70.77
+1389,396.8726679233341,7,0.1,Technology,South,Standard,1,121.75
+1390,1126.2584589065937,10,0.1,Furniture,North,Express,1,270.68
+1391,1332.1718423635496,10,0.3,Technology,North,Same Day,1,-13.19
+1392,1006.8200716952829,4,0.1,Furniture,South,Same Day,1,195.01
+1393,303.8022229979731,8,0.5,Technology,South,Standard,3,-44.57
+1394,474.6407209074349,6,0.2,Furniture,West,Express,2,48.14
+1395,887.0748153447026,4,0.5,Technology,West,Express,2,-105.63
+1396,573.2885555355356,4,0.3,Furniture,North,Standard,4,43.25
+1397,525.0556843614224,2,0.1,Technology,North,Standard,3,72.9
+1398,529.8942137289522,2,0.3,Technology,South,Standard,1,1.83
+1399,1260.8000050872836,4,0.0,Office Supplies,North,Same Day,1,316.44
+1400,939.2963159100118,5,0.5,Office Supplies,North,Standard,5,-38.17
+1401,548.1116004536841,8,0.2,Furniture,South,Standard,5,93.59
+1402,808.8701650584113,6,0.0,Technology,North,Express,4,202.84
+1403,275.23805229092335,4,0.2,Furniture,North,Standard,1,88.29
+1404,475.2259794520055,7,0.5,Office Supplies,East,Standard,4,-0.65
+1405,1193.1698898066923,8,0.0,Furniture,West,Express,3,401.0
+1406,211.71312252208278,2,0.2,Furniture,South,Standard,2,100.02
+1407,945.9351164327128,7,0.2,Office Supplies,East,Express,1,135.44
+1408,126.7580590154728,2,0.3,Technology,West,Standard,3,-2.88
+1409,1626.7558636700132,2,0.1,Furniture,West,Express,1,271.32
+1410,468.0316536095566,8,0.05,Office Supplies,West,Express,5,126.89
+1411,843.2496474062646,2,0.0,Technology,East,Standard,4,206.68
+1412,714.3956895510063,9,0.2,Office Supplies,East,Standard,5,145.55
+1413,729.9289078271808,1,0.1,Furniture,West,Express,2,125.46
+1414,800.3867237487534,9,0.5,Technology,North,Express,5,-61.07
+1415,183.85618944111494,1,0.0,Technology,North,Express,1,74.64
+1416,738.8833910710787,10,0.2,Office Supplies,East,Express,5,70.66
+1417,594.3412940555874,10,0.0,Office Supplies,East,Standard,1,138.48
+1418,469.6974284557711,2,0.05,Office Supplies,East,Standard,2,64.18
+1419,396.731688829632,6,0.1,Technology,West,Same Day,5,80.53
+1420,749.8590298793073,6,0.1,Technology,North,Standard,4,158.43
+1421,341.7052994730766,1,0.2,Furniture,East,Standard,4,9.65
+1422,1181.2618028449388,7,0.5,Technology,East,Standard,4,-147.11
+1423,878.8146486377544,8,0.2,Furniture,South,Standard,5,91.84
+1424,776.748131977197,2,0.5,Office Supplies,West,Standard,5,-116.94
+1425,1153.7027948103741,8,0.3,Office Supplies,South,Same Day,5,38.35
+1426,162.16202731541713,9,0.2,Technology,North,Standard,1,118.68
+1427,268.84535124791773,6,0.3,Office Supplies,South,Standard,2,-5.48
+1428,901.1175263276921,5,0.2,Office Supplies,South,Same Day,4,174.38
+1429,412.1075883392803,9,0.0,Technology,South,Same Day,1,127.22
+1430,446.88176494929894,9,0.2,Furniture,West,Standard,4,33.85
+1431,241.50902829585334,1,0.0,Technology,North,Standard,1,57.79
+1432,342.3592636527668,3,0.2,Furniture,South,Express,5,155.79
+1433,1195.9599506356226,9,0.2,Technology,West,Express,4,172.01
+1434,889.0237952249574,2,0.0,Technology,North,Express,5,253.36
+1435,745.0085366215503,4,0.05,Office Supplies,East,Express,4,202.42
+1436,458.19521723761386,4,0.5,Technology,South,Express,3,-87.12
+1437,717.7277963736022,2,0.2,Technology,North,Standard,1,78.83
+1438,1254.53183492304,3,0.05,Furniture,South,Express,3,275.4
+1439,418.82940474537645,3,0.2,Office Supplies,East,Standard,1,111.82
+1440,652.4844485745411,1,0.2,Furniture,North,Express,2,53.39
+1441,1682.38903601141,6,0.2,Furniture,West,Express,4,151.35
+1442,999.3580984916952,8,0.5,Office Supplies,North,Standard,2,-175.66
+1443,462.3956599277393,3,0.2,Office Supplies,West,Standard,2,56.89
+1444,954.1033732191862,5,0.1,Office Supplies,North,Standard,1,192.68
+1445,209.14008587928157,1,0.3,Technology,West,Standard,3,-38.1
+1446,636.7387028201653,10,0.3,Office Supplies,East,Express,5,62.68
+1447,953.5135571507623,7,0.0,Office Supplies,East,Standard,1,281.54
+1448,834.2392733285596,10,0.05,Office Supplies,East,Express,5,258.58
+1449,948.2958855265264,1,0.05,Furniture,North,Standard,2,244.2
+1450,1068.3544177712552,9,0.2,Furniture,East,Express,5,133.77
+1451,872.2456381612185,8,0.2,Technology,South,Express,3,73.51
+1452,857.8881688258044,7,0.2,Furniture,East,Express,1,74.56
+1453,755.100119888026,10,0.5,Technology,West,Standard,3,-20.47
+1454,315.553757165234,7,0.3,Furniture,West,Same Day,3,39.21
+1455,1195.6652694268862,5,0.0,Office Supplies,West,Standard,1,385.03
+1456,650.6483759943667,5,0.1,Furniture,North,Standard,3,149.81
+1457,985.3864569376632,5,0.1,Technology,South,Standard,4,213.97
+1458,1127.7678938083309,1,0.1,Furniture,East,Standard,4,223.94
+1459,477.40492644210684,8,0.2,Office Supplies,South,Same Day,4,35.38
+1460,504.55146842018786,1,0.3,Technology,South,Standard,5,13.22
+1461,548.2457239427567,4,0.1,Office Supplies,West,Express,3,67.17
+1462,1321.9653847753182,9,0.2,Office Supplies,West,Express,1,140.79
+1463,364.0786280379269,9,0.3,Technology,West,Standard,1,65.59
+1464,1449.0498603055262,5,0.1,Office Supplies,North,Express,5,228.21
+1465,750.1723567335233,4,0.05,Office Supplies,South,Standard,1,195.24
+1466,781.7404550797621,3,0.1,Furniture,South,Standard,4,91.54
+1467,1099.8027803471346,3,0.0,Office Supplies,North,Standard,3,329.97
+1468,700.8263447765014,5,0.5,Office Supplies,North,Same Day,1,-120.9
+1469,1203.1097299032938,10,0.0,Office Supplies,North,Same Day,1,314.83
+1470,476.998629851986,1,0.1,Office Supplies,South,Standard,2,33.47
+1471,1423.4245613390165,5,0.2,Technology,South,Standard,2,118.6
+1472,500.82904705415774,6,0.5,Furniture,West,Express,2,-124.41
+1473,1453.4429788552407,7,0.05,Office Supplies,West,Standard,3,317.4
+1474,509.41854870862403,9,0.0,Office Supplies,South,Express,4,210.84
+1475,558.1185967598303,3,0.0,Technology,West,Standard,4,147.92
+1476,335.01196213027725,2,0.05,Office Supplies,North,Standard,4,38.3
+1477,399.77426939864347,3,0.05,Technology,East,Express,3,105.87
+1478,652.6066375382549,9,0.2,Furniture,West,Standard,3,102.03
+1479,766.9286600680533,7,0.05,Furniture,South,Same Day,2,262.62
+1480,1154.6630779257619,9,0.0,Office Supplies,West,Same Day,1,361.34
+1481,583.0664618986948,2,0.3,Office Supplies,West,Standard,5,17.78
+1482,305.33505547674855,5,0.1,Office Supplies,West,Standard,5,107.06
+1483,835.2883135187261,4,0.1,Technology,East,Same Day,1,153.12
+1484,736.9555069115705,2,0.1,Office Supplies,North,Same Day,2,128.96
+1485,888.5952189095955,9,0.5,Office Supplies,South,Standard,1,-52.44
+1486,438.7324032756591,9,0.05,Furniture,East,Express,1,78.79
+1487,472.5356257089145,6,0.3,Office Supplies,South,Standard,5,61.52
+1488,438.84140155767204,6,0.3,Furniture,South,Standard,2,23.93
+1489,1279.4253670935047,8,0.0,Office Supplies,South,Express,3,349.65
+1490,1430.9902650498504,6,0.5,Furniture,East,Standard,5,-239.77
+1491,459.75221672454944,1,0.05,Office Supplies,North,Same Day,3,105.78
+1492,465.6802264368455,4,0.0,Furniture,South,Standard,2,134.9
+1493,959.8812378374918,7,0.3,Technology,North,Express,1,15.69
+1494,1519.0103901677462,2,0.2,Furniture,North,Standard,4,106.93
+1495,1701.436810157667,9,0.2,Furniture,West,Standard,4,114.43
+1496,446.4844892485192,8,0.05,Furniture,East,Express,2,107.31
+1497,520.5837753992768,8,0.1,Office Supplies,East,Standard,4,107.97
+1498,790.313099719667,7,0.3,Office Supplies,West,Standard,3,36.34
+1499,812.7419929157107,4,0.1,Office Supplies,West,Standard,4,222.81
+1500,597.0060429884228,2,0.1,Technology,North,Standard,2,86.95
+1501,390.98512105987584,3,0.0,Technology,South,Express,2,76.92
+1502,653.2338801889423,6,0.05,Furniture,East,Standard,3,140.54
+1503,1700.4307558596258,5,0.3,Technology,South,Standard,4,21.86
+1504,476.89319990342995,8,0.1,Furniture,South,Standard,4,139.29
+1505,762.2646839717785,6,0.5,Furniture,West,Standard,1,-77.9
+1506,2321.8879513502575,6,0.1,Furniture,South,Standard,5,442.08
+1507,472.57722778298876,1,0.2,Technology,North,Standard,2,76.73
+1508,985.5934866280711,4,0.05,Office Supplies,West,Standard,1,214.75
+1509,1740.4854621415668,5,0.1,Technology,South,Express,2,384.04
+1510,938.0416566360378,3,0.05,Furniture,West,Express,1,197.23
+1511,1229.4557965682518,9,0.1,Furniture,North,Standard,5,251.69
+1512,1060.8582036638556,1,0.2,Technology,North,Standard,1,135.22
+1513,895.9444845918861,6,0.5,Furniture,South,Standard,2,-106.97
+1514,1405.0991880482152,6,0.2,Furniture,West,Standard,4,63.98
+1515,968.1179810277707,10,0.05,Technology,South,Standard,2,251.08
+1516,600.7419027271792,5,0.0,Technology,South,Standard,3,205.35
+1517,728.3739267034923,5,0.0,Technology,West,Standard,3,160.07
+1518,828.7877120630937,10,0.2,Furniture,South,Standard,3,142.58
+1519,518.6346625883722,5,0.3,Furniture,North,Standard,3,36.06
+1520,747.7653424514133,6,0.5,Office Supplies,West,Standard,5,-59.42
+1521,685.8045719191647,8,0.0,Office Supplies,West,Standard,4,187.23
+1522,966.4302248654441,2,0.2,Technology,West,Standard,4,122.17
+1523,1997.1846847154645,6,0.1,Office Supplies,West,Standard,2,365.12
+1524,773.7477562815094,1,0.2,Furniture,South,Standard,1,128.71
+1525,1540.2792408094738,4,0.2,Office Supplies,South,Standard,2,240.73
+1526,946.9079648667002,10,0.2,Furniture,North,Standard,2,179.59
+1527,745.7882819298002,3,0.2,Technology,East,Standard,2,91.48
+1528,500.5149861450603,9,0.0,Technology,East,Standard,2,251.36
+1529,749.0842755704558,3,0.3,Furniture,North,Standard,4,32.38
+1530,722.4380506073969,6,0.0,Office Supplies,East,Standard,1,178.83
+1531,419.7451138059611,1,0.2,Technology,North,Express,2,37.21
+1532,463.5305579668021,6,0.1,Technology,South,Standard,4,133.14
+1533,832.824501924655,4,0.2,Office Supplies,West,Standard,2,115.53
+1534,1531.783567148649,8,0.5,Office Supplies,West,Express,3,-267.45
+1535,640.1828813548954,9,0.3,Furniture,South,Standard,2,3.53
+1536,233.03103456775705,4,0.3,Office Supplies,West,Standard,2,6.89
+1537,111.62639631814105,10,0.2,Office Supplies,West,Express,5,77.64
+1538,330.62080467973044,10,0.2,Office Supplies,East,Express,3,99.64
+1539,999.6813825406928,6,0.2,Furniture,South,Standard,1,114.92
+1540,268.6832852241673,1,0.3,Furniture,East,Standard,2,-25.55
+1541,1090.043210948595,4,0.1,Technology,East,Standard,1,260.65
+1542,968.8989186701355,7,0.5,Furniture,West,Standard,3,-172.08
+1543,626.9924130742586,1,0.5,Technology,West,Standard,2,-59.14
+1544,422.2129320393134,8,0.2,Office Supplies,South,Standard,5,99.64
+1545,572.9524270784805,10,0.05,Technology,West,Standard,4,213.7
+1546,820.9686783162714,6,0.0,Technology,West,Same Day,5,219.69
+1547,275.1416705918691,5,0.3,Office Supplies,South,Same Day,5,18.63
+1548,1446.849792232514,10,0.05,Technology,West,Standard,4,352.15
+1549,816.6003523991079,9,0.3,Furniture,East,Express,4,24.24
+1550,871.0609816755284,2,0.1,Furniture,South,Standard,4,161.61
+1551,964.9869516078496,5,0.1,Furniture,West,Express,2,239.49
+1552,1369.8256911229253,6,0.5,Furniture,North,Standard,1,-255.11
+1553,750.1575138932828,7,0.2,Technology,South,Standard,1,72.01
+1554,1000.0276318596459,5,0.2,Technology,South,Standard,4,78.2
+1555,426.9015719123361,9,0.2,Office Supplies,North,Standard,5,75.85
+1556,1705.2996923832998,1,0.1,Technology,West,Standard,3,281.63
+1557,720.344557032076,7,0.3,Technology,West,Express,4,58.43
+1558,425.48995478589524,10,0.05,Technology,South,Express,5,139.47
+1559,500.5993602632186,7,0.5,Office Supplies,South,Standard,5,-42.0
+1560,154.54266834077373,4,0.3,Furniture,West,Standard,2,33.17
+1561,498.53712790618965,9,0.1,Technology,West,Standard,2,135.85
+1562,85.97460962381892,5,0.2,Office Supplies,East,Express,1,56.49
+1563,1041.6763005325663,4,0.2,Office Supplies,South,Same Day,1,99.05
+1564,855.8801776397084,7,0.1,Office Supplies,South,Same Day,3,233.84
+1565,344.69383298053475,4,0.5,Furniture,North,Express,3,48.64
+1566,647.3776690532849,3,0.0,Technology,East,Standard,3,201.56
+1567,665.1970175004993,9,0.05,Office Supplies,West,Standard,3,191.01
+1568,296.77057670087515,8,0.2,Furniture,East,Standard,5,85.6
+1569,580.4660116148716,1,0.2,Office Supplies,West,Same Day,5,12.9
+1570,677.7031120306025,7,0.2,Office Supplies,West,Standard,1,95.52
+1571,570.7626825672149,9,0.3,Office Supplies,East,Standard,2,16.55
+1572,425.2077876740739,8,0.2,Office Supplies,South,Express,2,91.87
+1573,335.66284687797065,8,0.2,Office Supplies,West,Standard,4,41.43
+1574,558.3667903646144,6,0.0,Furniture,East,Standard,5,157.52
+1575,459.61434540508367,4,0.1,Technology,North,Express,3,30.32
+1576,928.8079329982146,8,0.05,Technology,East,Standard,3,191.66
+1577,1416.6714171579304,3,0.05,Technology,North,Standard,4,321.38
+1578,1119.8747085609575,9,0.2,Technology,West,Express,2,104.18
+1579,691.3081805799417,2,0.05,Furniture,East,Express,3,190.68
+1580,435.8978553514362,2,0.05,Furniture,East,Same Day,2,67.06
+1581,1102.9763142046006,7,0.05,Furniture,North,Standard,4,279.73
+1582,961.0477366317981,10,0.5,Office Supplies,East,Standard,2,-144.85
+1583,1362.0818011121892,4,0.5,Office Supplies,East,Express,2,-204.87
+1584,750.633914976203,10,0.2,Office Supplies,West,Standard,2,56.33
+1585,1656.164700337612,8,0.5,Technology,East,Standard,3,-265.69
+1586,750.7714163843186,9,0.3,Office Supplies,South,Express,1,11.63
+1587,434.52112963737113,7,0.2,Technology,North,Standard,5,100.67
+1588,487.9908048750282,5,0.0,Office Supplies,East,Standard,2,163.18
+1589,903.7034833799247,8,0.3,Technology,North,Standard,2,-7.66
+1590,458.8116147028015,4,0.2,Office Supplies,North,Standard,2,49.59
+1591,1649.867014210008,2,0.2,Office Supplies,North,Standard,1,114.96
+1592,861.1309180217803,6,0.3,Furniture,East,Standard,4,58.95
+1593,682.3021882392553,9,0.2,Office Supplies,East,Express,3,144.09
+1594,716.879682852074,1,0.2,Office Supplies,North,Same Day,1,11.89
+1595,567.016687196505,10,0.5,Furniture,South,Standard,2,-20.29
+1596,191.14323529715955,7,0.1,Technology,North,Standard,1,37.72
+1597,488.2227417784394,10,0.2,Furniture,South,Standard,1,80.21
+1598,1537.8072568586906,9,0.1,Furniture,North,Standard,1,299.87
+1599,762.5610713619482,10,0.2,Technology,West,Express,4,174.59
+1600,1192.0202623995262,9,0.3,Office Supplies,North,Express,5,3.91
+1601,1211.1155385435964,10,0.0,Technology,North,Express,3,382.0
+1602,651.0689012219688,3,0.2,Office Supplies,East,Standard,4,26.08
+1603,970.0107040809224,5,0.05,Office Supplies,South,Standard,4,182.86
+1604,207.97976911994442,8,0.2,Technology,West,Standard,5,57.63
+1605,1469.3954209142594,8,0.1,Furniture,South,Standard,4,283.21
+1606,1403.712045248931,4,0.3,Technology,West,Express,1,-86.15
+1607,889.3761435522125,1,0.0,Office Supplies,North,Same Day,1,267.93
+1608,778.8492883315939,1,0.2,Technology,East,Standard,2,-7.56
+1609,656.2885837977171,4,0.05,Technology,East,Express,4,151.07
+1610,1269.1840882803235,6,0.3,Office Supplies,South,Standard,2,70.12
+1611,1033.9436857783473,8,0.5,Furniture,East,Standard,3,-63.62
+1612,48.879987113753884,6,0.5,Technology,South,Standard,1,8.74
+1613,529.3777623292923,9,0.3,Office Supplies,South,Standard,3,-7.8
+1614,306.0760071542517,9,0.3,Office Supplies,West,Standard,5,88.64
+1615,265.49353769232494,2,0.05,Technology,South,Express,1,95.37
+1616,1261.7348519742056,10,0.1,Furniture,West,Express,3,241.07
+1617,647.6942965694396,1,0.1,Technology,East,Standard,5,90.32
+1618,880.997307949144,2,0.3,Furniture,South,Standard,3,-19.51
+1619,698.5234432808602,5,0.5,Furniture,South,Express,5,-109.3
+1620,268.0850241201455,4,0.05,Furniture,North,Express,5,86.69
+1621,211.72210618603594,4,0.5,Furniture,South,Express,1,-36.86
+1622,506.7180217623988,9,0.2,Technology,South,Standard,2,70.15
+1623,534.219579712782,8,0.2,Office Supplies,North,Same Day,5,105.18
+1624,534.0063219226304,6,0.05,Office Supplies,North,Standard,5,88.92
+1625,543.7918047622869,1,0.0,Office Supplies,East,Express,1,127.79
+1626,1924.688243361822,2,0.2,Office Supplies,South,Standard,2,105.32
+1627,1181.9361297158214,6,0.2,Office Supplies,East,Express,4,128.35
+1628,768.9808244297535,2,0.05,Office Supplies,East,Standard,4,101.68
+1629,637.8607218863785,10,0.2,Technology,North,Standard,2,132.18
+1630,651.5859177371013,5,0.3,Furniture,West,Standard,3,-24.27
+1631,1012.7256389218571,5,0.3,Office Supplies,East,Standard,1,-42.1
+1632,634.254209539448,6,0.5,Technology,West,Express,2,-93.72
+1633,1115.0898295340987,6,0.1,Office Supplies,South,Express,4,273.88
+1634,818.3603787667334,6,0.1,Office Supplies,North,Same Day,5,189.92
+1635,1934.328155091527,2,0.2,Furniture,South,Standard,4,97.47
+1636,611.2877892523674,10,0.1,Furniture,South,Express,5,103.85
+1637,1229.136105620706,3,0.0,Furniture,North,Express,1,308.44
+1638,325.8675000103371,6,0.05,Office Supplies,South,Standard,5,175.96
+1639,443.06188946768617,8,0.1,Office Supplies,North,Standard,2,80.24
+1640,1793.1190234620553,1,0.05,Office Supplies,West,Express,5,344.49
+1641,1088.6898115831714,1,0.1,Furniture,South,Same Day,3,238.09
+1642,890.1935539312792,2,0.05,Technology,North,Express,2,201.54
+1643,2207.9429828017264,6,0.0,Office Supplies,East,Standard,1,618.84
+1644,643.4194671230289,9,0.2,Office Supplies,South,Standard,2,71.03
+1645,1227.505937762926,4,0.2,Office Supplies,West,Standard,3,114.64
+1646,1278.1735273991758,3,0.2,Technology,North,Express,1,163.3
+1647,1580.565093128395,8,0.05,Office Supplies,South,Express,4,362.9
+1648,299.64051703022903,10,0.05,Technology,South,Standard,3,151.48
+1649,640.8236108954768,9,0.2,Office Supplies,South,Express,1,109.82
+1650,810.0919018150183,5,0.2,Technology,West,Standard,5,53.42
+1651,1566.2938723821533,9,0.2,Office Supplies,North,Same Day,2,169.73
+1652,869.4913428272107,2,0.1,Furniture,East,Standard,1,187.81
+1653,1279.7115935239776,3,0.5,Furniture,East,Standard,2,-185.52
+1654,280.59306670688846,7,0.1,Furniture,East,Standard,5,79.89
+1655,552.4161517800575,7,0.1,Furniture,North,Standard,1,59.94
+1656,1400.7735518190634,6,0.2,Office Supplies,East,Standard,4,79.2
+1657,598.4771501393656,6,0.2,Furniture,West,Standard,3,22.46
+1658,673.0470332086484,2,0.1,Technology,North,Standard,1,103.19
+1659,1552.4774932204095,10,0.1,Furniture,South,Express,5,292.96
+1660,377.229823399002,6,0.3,Furniture,West,Standard,1,-23.53
+1661,438.3551373158272,4,0.05,Furniture,South,Standard,2,146.75
+1662,259.2651947283748,3,0.0,Office Supplies,East,Standard,1,35.58
+1663,1586.80390023848,2,0.1,Furniture,West,Express,4,223.85
+1664,1169.7390651997305,1,0.3,Technology,North,Standard,1,2.24
+1665,1153.158265620818,5,0.0,Furniture,West,Same Day,3,347.38
+1666,542.6534203472188,2,0.5,Furniture,South,Express,1,-13.04
+1667,245.07166388665618,2,0.2,Furniture,North,Standard,2,49.99
+1668,195.28848822007066,7,0.5,Technology,West,Standard,1,56.12
+1669,1406.5182637204637,8,0.5,Furniture,West,Standard,4,-248.56
+1670,924.3978207073174,10,0.1,Technology,West,Standard,5,278.12
+1671,1026.9742155700512,8,0.05,Technology,West,Express,1,187.95
+1672,788.1777022391159,4,0.05,Furniture,North,Same Day,1,165.91
+1673,403.8035804718172,1,0.05,Technology,South,Standard,3,108.41
+1674,558.5210484278456,7,0.2,Office Supplies,West,Standard,4,23.5
+1675,339.0404836678193,1,0.05,Furniture,North,Express,5,42.9
+1676,309.999621192709,4,0.1,Furniture,South,Express,2,33.14
+1677,1116.2343584264186,8,0.1,Technology,West,Standard,1,213.32
+1678,209.08809025049405,2,0.5,Technology,South,Standard,5,23.16
+1679,340.6305849251539,6,0.05,Furniture,South,Standard,2,101.27
+1680,579.1013007809596,6,0.0,Office Supplies,North,Express,4,158.57
+1681,710.6180045567401,9,0.0,Technology,South,Standard,4,121.7
+1682,256.89382549246784,5,0.5,Technology,North,Standard,5,-3.62
+1683,204.87775707645008,10,0.2,Office Supplies,West,Same Day,2,94.04
+1684,863.142459847694,4,0.05,Office Supplies,South,Express,4,139.6
+1685,762.3210129642302,5,0.05,Furniture,South,Express,5,180.84
+1686,1393.0415142979884,10,0.05,Office Supplies,East,Standard,4,345.81
+1687,717.8511747184035,5,0.0,Furniture,West,Standard,4,238.22
+1688,913.9741853277565,8,0.5,Office Supplies,West,Same Day,4,-145.31
+1689,419.18429004950906,10,0.3,Technology,East,Standard,3,17.27
+1690,431.00657754988316,8,0.1,Furniture,East,Standard,2,95.14
+1691,276.88247019404764,2,0.3,Furniture,North,Standard,5,53.57
+1692,421.9127941396988,7,0.05,Furniture,North,Standard,5,159.08
+1693,553.3580832822817,8,0.2,Office Supplies,South,Standard,2,83.52
+1694,1316.8081307235423,6,0.3,Technology,South,Express,2,59.11
+1695,380.4828901323781,5,0.1,Furniture,South,Same Day,2,4.88
+1696,1981.8633607986558,9,0.3,Furniture,South,Same Day,2,62.8
+1697,960.3212037898895,3,0.05,Furniture,North,Standard,1,175.11
+1698,850.2703361491009,10,0.05,Furniture,West,Standard,5,288.28
+1699,684.7130557823009,4,0.0,Technology,South,Standard,1,153.93
+1700,608.4361378603684,9,0.1,Office Supplies,West,Express,4,115.55
+1701,463.98891317206545,6,0.2,Technology,South,Standard,4,86.8
+1702,249.236713941287,8,0.5,Furniture,East,Express,5,19.45
+1703,389.44901252726504,7,0.2,Technology,South,Express,4,50.53
+1704,1584.695467263856,2,0.3,Furniture,South,Standard,2,15.08
+1705,926.9759702249517,3,0.3,Office Supplies,South,Standard,1,27.7
+1706,1576.9132089108357,1,0.05,Office Supplies,North,Same Day,2,345.97
+1707,456.27653101946856,9,0.1,Office Supplies,East,Same Day,4,106.13
+1708,332.28004668775645,7,0.0,Furniture,South,Standard,1,135.75
+1709,680.6782157208447,1,0.2,Technology,South,Standard,2,108.68
+1710,399.14298471896984,3,0.5,Office Supplies,West,Same Day,5,-97.74
+1711,766.7364712867887,4,0.0,Furniture,East,Standard,2,182.28
+1712,211.85254367458057,4,0.2,Furniture,South,Standard,4,37.9
+1713,139.03996404217148,5,0.2,Technology,West,Standard,1,-0.84
+1714,831.3312405218509,3,0.2,Office Supplies,West,Standard,5,18.39
+1715,1609.1469240289964,3,0.1,Furniture,North,Standard,1,318.77
+1716,852.7790225389431,1,0.1,Technology,West,Standard,5,67.7
+1717,921.5669505817352,7,0.0,Office Supplies,South,Standard,1,251.31
+1718,698.1796289780193,10,0.05,Technology,North,Standard,4,221.44
+1719,738.2257351815191,1,0.0,Technology,North,Same Day,5,198.89
+1720,240.0486617481293,2,0.2,Furniture,South,Express,3,15.65
+1721,409.21523661960015,4,0.0,Furniture,East,Express,1,83.89
+1722,1309.3357029227182,4,0.3,Furniture,West,Express,1,25.49
+1723,312.7709754135216,5,0.2,Technology,North,Standard,2,15.43
+1724,545.6567046009297,2,0.2,Furniture,East,Standard,5,62.96
+1725,1294.6678649300975,4,0.1,Technology,South,Same Day,3,238.55
+1726,726.2121329593765,1,0.2,Technology,West,Standard,4,68.38
+1727,748.1841253348064,2,0.5,Furniture,West,Standard,2,-143.34
+1728,548.2656694365202,1,0.0,Office Supplies,North,Express,3,213.29
+1729,999.5488700293361,10,0.05,Office Supplies,West,Standard,5,269.94
+1730,1138.4770643638485,10,0.3,Office Supplies,West,Standard,3,34.55
+1731,394.5162052620379,4,0.0,Technology,West,Same Day,1,127.88
+1732,257.4979977201119,4,0.0,Technology,West,Express,1,57.27
+1733,162.90588791048424,7,0.1,Technology,South,Standard,2,48.36
+1734,896.3011507134675,10,0.0,Furniture,East,Same Day,5,357.79
+1735,838.2186767438427,9,0.2,Technology,South,Express,5,85.2
+1736,2290.20338461757,9,0.05,Furniture,South,Express,3,517.5
+1737,700.6344729065717,5,0.3,Furniture,North,Standard,2,5.53
+1738,627.1045817684635,10,0.3,Office Supplies,West,Standard,5,10.48
+1739,781.8957449068913,1,0.2,Office Supplies,South,Express,1,82.29
+1740,806.8121406925013,1,0.2,Office Supplies,West,Express,3,70.82
+1741,597.7601874872788,6,0.3,Furniture,South,Express,4,58.9
+1742,403.28341926924804,2,0.05,Furniture,South,Standard,1,122.05
+1743,678.2378843570954,8,0.3,Furniture,North,Standard,2,68.13
+1744,662.9507772512586,9,0.3,Technology,East,Express,5,9.55
+1745,656.5015603829853,4,0.2,Furniture,East,Standard,1,94.95
+1746,1059.3476780435483,5,0.2,Office Supplies,South,Standard,4,133.03
+1747,670.902043705684,8,0.05,Office Supplies,North,Standard,4,143.47
+1748,261.72068019471993,3,0.1,Furniture,West,Standard,2,47.03
+1749,447.50918916647277,5,0.3,Furniture,West,Express,1,-28.2
+1750,593.2120799021242,3,0.0,Office Supplies,South,Express,3,186.74
+1751,690.0623669968056,10,0.3,Furniture,East,Standard,1,69.83
+1752,907.1367117724665,3,0.05,Office Supplies,North,Standard,4,253.29
+1753,693.3361684921653,3,0.0,Technology,East,Express,2,180.33
+1754,141.67947224608469,7,0.0,Office Supplies,West,Standard,2,86.22
+1755,284.72028243147287,7,0.0,Technology,East,Standard,3,140.75
+1756,942.8037269960512,7,0.2,Furniture,West,Same Day,2,84.04
+1757,583.2703315591934,10,0.05,Furniture,North,Standard,2,139.32
+1758,729.2203674677315,8,0.5,Technology,North,Same Day,2,-112.91
+1759,538.3036308368215,5,0.2,Furniture,South,Standard,2,55.84
+1760,446.29264745190494,5,0.0,Technology,South,Standard,2,106.1
+1761,550.65102160465,4,0.2,Furniture,East,Standard,4,40.26
+1762,734.3928625103705,7,0.3,Office Supplies,North,Same Day,1,62.16
+1763,667.9109725338284,10,0.2,Furniture,North,Standard,5,100.06
+1764,1134.312847186091,4,0.0,Office Supplies,South,Standard,2,314.31
+1765,225.63867338835286,2,0.3,Office Supplies,West,Same Day,5,-10.4
+1766,249.8567812373787,4,0.3,Technology,East,Standard,5,-2.82
+1767,579.0521484038551,8,0.05,Furniture,East,Standard,4,170.15
+1768,913.0498377735601,9,0.0,Technology,South,Standard,2,277.67
+1769,1027.0975958331703,3,0.2,Furniture,North,Express,5,124.4
+1770,457.91784237246355,7,0.05,Office Supplies,South,Standard,2,175.57
+1771,69.70498475598235,9,0.3,Office Supplies,South,Standard,3,20.45
+1772,467.60438187941253,4,0.1,Furniture,South,Standard,3,127.3
+1773,839.7535482623525,10,0.5,Furniture,South,Standard,3,-134.75
+1774,660.4359591908085,3,0.2,Technology,West,Same Day,5,140.42
+1775,932.2285760704408,5,0.05,Furniture,West,Same Day,3,190.92
+1776,1284.1944344892895,1,0.0,Furniture,North,Express,4,350.22
+1777,604.0189512784505,3,0.2,Furniture,South,Express,4,25.27
+1778,501.57848190273677,8,0.3,Technology,West,Express,5,32.17
+1779,366.75948896852,8,0.3,Furniture,North,Standard,2,92.27
+1780,248.79245010031096,4,0.05,Office Supplies,South,Express,1,43.0
+1781,201.07765407042604,2,0.05,Technology,East,Standard,2,128.87
+1782,429.1254355938271,8,0.0,Technology,West,Standard,2,147.1
+1783,1187.699145745622,8,0.2,Office Supplies,North,Express,2,169.17
+1784,983.4939697450392,10,0.0,Office Supplies,East,Standard,2,309.98
+1785,486.6572074187892,4,0.1,Office Supplies,South,Express,1,116.29
+1786,1992.1439506253807,3,0.2,Furniture,South,Standard,3,124.46
+1787,448.6987229566787,2,0.5,Office Supplies,South,Express,2,-85.07
+1788,1351.818555810019,9,0.1,Furniture,West,Standard,4,309.91
+1789,1528.9327792782371,1,0.05,Technology,North,Express,5,310.2
+1790,872.6325114380178,7,0.2,Technology,East,Express,5,109.67
+1791,426.5004130756665,5,0.2,Office Supplies,North,Standard,4,4.96
+1792,528.3699701209308,8,0.1,Furniture,West,Standard,2,108.37
+1793,744.9400356779037,4,0.5,Office Supplies,North,Standard,1,-71.06
+1794,254.0720551154968,7,0.3,Office Supplies,West,Standard,3,-11.16
+1795,343.47554635685776,5,0.05,Furniture,South,Express,5,121.37
+1796,324.09615869035457,5,0.05,Office Supplies,East,Same Day,3,98.47
+1797,910.6302554998538,9,0.2,Technology,South,Standard,1,109.59
+1798,1277.3381615185015,9,0.3,Office Supplies,North,Express,5,28.82
+1799,1005.3597579171867,9,0.0,Furniture,South,Express,3,279.15
+1800,1161.5804979311833,6,0.2,Furniture,East,Standard,1,108.86
+1801,402.97691111694843,6,0.2,Technology,South,Express,3,94.78
+1802,543.4195251892003,5,0.05,Furniture,East,Express,2,122.64
+1803,569.4181325636949,9,0.2,Furniture,East,Standard,1,153.82
+1804,870.6387787352703,10,0.5,Technology,South,Standard,3,-91.88
+1805,436.95005725177805,8,0.0,Office Supplies,West,Standard,2,129.07
+1806,1121.725515365366,7,0.1,Technology,North,Same Day,2,254.15
+1807,1505.5929614885165,7,0.1,Office Supplies,West,Same Day,1,305.26
+1808,896.2237871833494,6,0.3,Technology,West,Express,4,-32.38
+1809,528.4989323433851,5,0.5,Office Supplies,South,Standard,5,-103.69
+1810,379.3989372325491,4,0.1,Technology,North,Standard,1,78.56
+1811,324.62695405564693,3,0.3,Office Supplies,North,Standard,2,-42.05
+1812,143.0080685875148,3,0.2,Technology,West,Standard,2,99.61
+1813,580.358270186965,6,0.2,Office Supplies,South,Express,1,105.21
+1814,559.9233083925511,4,0.05,Technology,North,Same Day,4,135.72
+1815,1083.2671868857267,6,0.05,Furniture,West,Same Day,5,242.78
+1816,455.8338963690079,3,0.05,Office Supplies,North,Express,3,88.6
+1817,600.7405188474211,4,0.2,Technology,South,Standard,1,-0.68
+1818,788.8116768925078,9,0.0,Office Supplies,South,Standard,5,181.55
+1819,887.8654581147921,5,0.5,Office Supplies,South,Standard,5,-63.84
+1820,1013.9333300658011,7,0.05,Technology,North,Express,2,300.47
+1821,743.3327766006818,10,0.05,Office Supplies,East,Express,3,184.09
+1822,265.018608119301,2,0.2,Technology,North,Standard,1,62.98
+1823,843.5131666639563,5,0.2,Furniture,East,Standard,2,110.21
+1824,434.53988432141574,9,0.0,Office Supplies,South,Standard,2,175.49
+1825,1310.738294090957,3,0.1,Furniture,West,Standard,4,181.39
+1826,675.3885127440169,9,0.5,Office Supplies,East,Standard,5,-136.48
+1827,769.863039021708,6,0.05,Office Supplies,South,Standard,1,231.14
+1828,2392.713879544826,4,0.1,Office Supplies,South,Standard,1,345.52
+1829,1023.9349249867904,7,0.3,Technology,East,Express,1,24.69
+1830,834.6947197959948,8,0.0,Furniture,West,Standard,2,235.8
+1831,611.7247031860002,6,0.1,Office Supplies,South,Standard,4,114.83
+1832,281.35257760271816,5,0.1,Technology,East,Standard,3,82.43
+1833,584.9223910902755,6,0.1,Office Supplies,West,Standard,2,102.8
+1834,376.2366724002866,5,0.05,Technology,West,Standard,3,116.92
+1835,1607.1879017031777,8,0.0,Office Supplies,South,Standard,4,446.74
+1836,841.1196894890641,1,0.1,Furniture,North,Standard,5,217.24
+1837,1284.2323472902062,7,0.0,Furniture,North,Standard,1,307.57
+1838,447.42446951395027,10,0.3,Office Supplies,South,Express,3,48.79
+1839,394.83027572027316,10,0.1,Technology,West,Standard,2,130.24
+1840,967.8931686699477,2,0.1,Office Supplies,South,Express,3,160.73
+1841,366.0228056883797,9,0.3,Technology,East,Standard,5,-3.63
+1842,503.5478627724954,1,0.2,Office Supplies,North,Standard,1,89.28
+1843,1649.4343368095329,10,0.0,Technology,East,Standard,3,474.15
+1844,516.4630690607645,6,0.5,Furniture,South,Standard,5,-104.72
+1845,239.08887797053703,9,0.05,Office Supplies,South,Same Day,2,109.96
+1846,175.23528413873734,1,0.0,Furniture,West,Express,4,108.36
+1847,217.65353581004166,4,0.3,Furniture,West,Same Day,2,17.64
+1848,1326.3699774426816,4,0.2,Office Supplies,West,Same Day,1,126.03
+1849,465.7975140500662,9,0.1,Office Supplies,East,Express,2,176.74
+1850,2351.340596347623,5,0.05,Technology,West,Standard,2,478.94
+1851,1515.1996705711479,5,0.2,Technology,South,Standard,2,206.68
+1852,1866.7948023637234,6,0.05,Furniture,West,Same Day,2,451.41
+1853,1178.2198019851733,1,0.5,Technology,North,Express,1,-233.54
+1854,939.0016791085975,1,0.05,Technology,West,Standard,5,176.45
+1855,385.32005778846593,9,0.3,Office Supplies,East,Express,3,24.7
+1856,665.2899988930974,3,0.2,Technology,North,Standard,4,4.05
+1857,993.2935017537168,4,0.3,Furniture,North,Standard,3,24.15
+1858,1137.6623704011406,1,0.2,Technology,North,Standard,3,65.25
+1859,300.7572859512588,9,0.2,Furniture,East,Express,4,79.44
+1860,590.6896736084361,8,0.1,Office Supplies,South,Express,1,92.28
+1861,633.4788878446536,2,0.05,Furniture,West,Standard,4,173.75
+1862,618.1884268776215,8,0.05,Technology,North,Standard,1,194.09
+1863,329.8657947413768,7,0.3,Office Supplies,North,Standard,3,8.64
+1864,1746.2082218684,6,0.3,Technology,North,Express,1,33.86
+1865,578.4136351130347,1,0.1,Office Supplies,South,Standard,5,103.34
+1866,346.67977336039536,7,0.0,Office Supplies,South,Standard,4,173.55
+1867,1769.9703965305987,10,0.1,Technology,East,Standard,5,305.91
+1868,1515.9997972497918,7,0.2,Technology,South,Standard,3,150.95
+1869,725.8531701463133,9,0.1,Office Supplies,West,Standard,4,142.34
+1870,173.96012064506553,1,0.3,Office Supplies,East,Express,3,5.7
+1871,493.9333094848192,2,0.5,Technology,East,Standard,5,-57.77
+1872,204.56013009729793,9,0.05,Furniture,West,Express,3,64.63
+1873,899.093308703686,9,0.1,Technology,West,Standard,4,180.61
+1874,471.98285415107944,6,0.1,Office Supplies,West,Standard,4,141.69
+1875,655.4967247716116,6,0.1,Technology,East,Standard,3,185.66
+1876,1683.4872485321268,4,0.05,Furniture,East,Express,4,386.6
+1877,449.7978954092061,4,0.0,Technology,East,Same Day,4,127.62
+1878,876.9394917814509,5,0.3,Office Supplies,West,Same Day,3,12.46
+1879,1030.8734769027278,3,0.1,Technology,West,Standard,5,204.28
+1880,1303.4797559289946,1,0.1,Office Supplies,North,Standard,4,228.05
+1881,626.6091430492123,1,0.5,Office Supplies,South,Express,4,-162.37
+1882,586.9262159319792,7,0.3,Technology,North,Express,4,52.1
+1883,578.4155688377388,1,0.0,Office Supplies,West,Standard,4,119.48
+1884,828.1705750338604,1,0.2,Office Supplies,East,Express,3,21.66
+1885,1480.5889880870498,3,0.1,Furniture,West,Standard,5,200.91
+1886,561.9935832812286,10,0.3,Furniture,South,Standard,5,39.63
+1887,85.93700314057246,4,0.2,Furniture,North,Standard,1,-8.7
+1888,1096.6222696260645,4,0.2,Furniture,North,Standard,4,26.31
+1889,694.3911967856391,2,0.1,Office Supplies,East,Standard,4,112.03
+1890,900.2594743749055,1,0.3,Technology,North,Standard,1,-16.67
+1891,210.59077753273928,3,0.0,Office Supplies,North,Standard,5,62.4
+1892,473.16691220979015,4,0.05,Office Supplies,West,Standard,2,96.17
+1893,1046.3363366602603,3,0.1,Office Supplies,North,Standard,2,251.67
+1894,274.51980788279394,8,0.0,Technology,North,Express,5,126.74
+1895,875.7910290149032,10,0.05,Furniture,North,Standard,4,214.24
+1896,652.2216953344777,1,0.3,Office Supplies,East,Standard,2,-0.49
+1897,409.49198799645603,2,0.5,Office Supplies,East,Standard,3,-12.15
+1898,387.5754288574387,7,0.1,Furniture,West,Same Day,3,132.43
+1899,332.006779237474,4,0.05,Office Supplies,North,Standard,1,40.02
+1900,692.1657241008169,8,0.05,Technology,East,Standard,5,149.52
+1901,741.3240772872733,3,0.05,Office Supplies,East,Standard,5,141.46
+1902,527.7736225580181,6,0.0,Office Supplies,West,Express,2,146.55
+1903,317.77004386808846,9,0.5,Furniture,South,Standard,4,-31.45
+1904,861.2452611239086,1,0.05,Office Supplies,North,Standard,5,184.9
+1905,1107.976003696629,1,0.1,Office Supplies,East,Standard,2,213.57
+1906,952.7271598095305,8,0.0,Technology,West,Standard,2,309.77
+1907,1908.7961753761135,3,0.3,Furniture,West,Express,5,-5.98
+1908,594.7524093340621,5,0.2,Furniture,West,Express,2,15.37
+1909,1400.2174888404882,1,0.5,Technology,East,Express,1,-276.45
+1910,436.1970413986467,5,0.3,Office Supplies,North,Express,1,4.63
+1911,390.7292399722615,6,0.1,Furniture,South,Standard,5,50.89
+1912,718.0110807110759,8,0.05,Furniture,North,Standard,4,228.92
+1913,1574.2199902324799,3,0.2,Office Supplies,West,Express,1,99.65
+1914,554.4904705799396,3,0.1,Office Supplies,West,Standard,1,128.09
+1915,210.46867591316047,10,0.2,Furniture,South,Express,5,7.97
+1916,1096.0900975022735,9,0.0,Office Supplies,North,Standard,3,342.02
+1917,635.3919758706019,4,0.0,Furniture,West,Standard,2,173.97
+1918,796.2209976225894,4,0.2,Office Supplies,West,Express,1,136.64
+1919,404.4391461390452,7,0.2,Office Supplies,North,Express,3,27.75
+1920,713.9865405548106,2,0.3,Technology,West,Express,4,-13.31
+1921,235.00889727890953,8,0.0,Office Supplies,North,Standard,3,85.79
+1922,1761.1488711737975,6,0.2,Technology,West,Express,5,165.55
+1923,1211.9467609324834,3,0.05,Office Supplies,North,Standard,4,254.37
+1924,694.7540318886129,9,0.0,Furniture,South,Standard,4,207.25
+1925,1078.9283326531674,5,0.1,Furniture,West,Same Day,3,191.02
+1926,436.94032267899127,8,0.05,Office Supplies,South,Express,5,58.17
+1927,1181.7431976775636,7,0.05,Office Supplies,West,Standard,1,314.98
+1928,539.1220117220686,8,0.1,Furniture,West,Express,3,229.09
+1929,515.0826370138587,7,0.05,Office Supplies,East,Standard,1,152.32
+1930,347.82062081179225,3,0.0,Technology,North,Standard,3,62.2
+1931,854.9842548120998,2,0.0,Technology,South,Standard,1,187.54
+1932,676.6031808430314,7,0.05,Technology,South,Same Day,3,196.86
+1933,1425.370335113404,3,0.0,Technology,South,Standard,4,384.83
+1934,320.20394406899595,3,0.2,Technology,North,Express,2,30.67
+1935,857.2550645954202,2,0.05,Office Supplies,East,Standard,4,214.25
+1936,1278.3976800313453,4,0.05,Office Supplies,South,Express,1,213.03
+1937,2381.1342628813713,8,0.1,Technology,North,Standard,5,459.28
+1938,749.2141430763542,1,0.2,Office Supplies,West,Express,4,73.26
+1939,532.6312367035723,1,0.3,Office Supplies,South,Standard,2,-32.52
+1940,737.8326048043605,5,0.3,Technology,South,Express,1,-28.86
+1941,1362.2155536049654,5,0.2,Office Supplies,East,Same Day,4,138.22
+1942,1361.8984137525665,1,0.1,Office Supplies,South,Express,3,278.97
+1943,619.6177413663124,6,0.2,Office Supplies,South,Standard,5,71.59
+1944,1348.7164208669199,1,0.2,Technology,West,Same Day,1,83.05
+1945,657.3743305418517,5,0.05,Office Supplies,North,Standard,4,168.1
+1946,1072.103338452999,9,0.05,Furniture,North,Express,1,331.19
+1947,915.7061679570791,5,0.05,Furniture,East,Express,3,230.1
+1948,519.1806944127511,6,0.5,Technology,West,Standard,2,-41.98
+1949,356.54762240082505,8,0.2,Furniture,North,Standard,4,111.32
+1950,1297.2500842923537,1,0.2,Technology,West,Standard,1,125.32
+1951,1500.5723438933433,2,0.1,Furniture,North,Standard,1,230.26
+1952,845.4450856958173,9,0.1,Furniture,West,Express,1,123.44
+1953,656.8375570190127,3,0.0,Furniture,East,Standard,2,146.95
+1954,291.8768002458214,6,0.05,Technology,South,Standard,1,51.9
+1955,1278.582528910278,5,0.3,Technology,East,Standard,5,41.68
+1956,789.13503091347,2,0.2,Office Supplies,North,Standard,5,101.07
+1957,566.4567318072859,7,0.1,Technology,East,Standard,1,134.61
+1958,1089.3860628454281,4,0.3,Furniture,South,Express,5,-29.85
+1959,254.3181931865305,1,0.05,Furniture,East,Standard,4,120.3
+1960,335.99592378906016,4,0.5,Technology,North,Express,5,-53.37
+1961,426.4914408913194,6,0.1,Technology,North,Standard,1,121.49
+1962,899.2466766937386,7,0.1,Technology,East,Standard,3,185.1
+1963,742.7009283276393,7,0.1,Office Supplies,South,Express,4,164.85
+1964,960.813144341147,7,0.0,Furniture,East,Standard,2,295.09
+1965,1230.0675444440794,3,0.0,Office Supplies,South,Standard,1,298.16
+1966,980.6651014252093,6,0.2,Office Supplies,West,Standard,2,154.14
+1967,1781.970236050054,8,0.3,Furniture,South,Standard,3,-24.19
+1968,1228.459692720053,4,0.3,Furniture,West,Standard,2,-22.49
+1969,618.7190060432271,8,0.0,Technology,East,Standard,1,239.91
+1970,471.1313397641513,2,0.2,Technology,South,Standard,1,68.34
+1971,630.3854244417975,10,0.0,Office Supplies,West,Standard,3,296.51
+1972,1000.2673478389497,9,0.0,Technology,West,Standard,1,297.46
+1973,504.2158411891779,9,0.2,Technology,West,Standard,3,144.85
+1974,1016.0581306858205,8,0.2,Furniture,North,Standard,3,56.27
+1975,950.7671003659632,10,0.0,Furniture,East,Standard,1,238.22
+1976,353.05459830848775,10,0.0,Technology,West,Same Day,5,169.61
+1977,1215.5588332240195,1,0.5,Furniture,South,Standard,3,-268.64
+1978,828.1336861532852,2,0.0,Technology,West,Express,1,210.13
+1979,1733.8961184843424,6,0.1,Furniture,North,Standard,5,356.95
+1980,658.770030993922,10,0.2,Furniture,East,Same Day,3,120.24
+1981,550.3958574307902,5,0.0,Furniture,North,Standard,5,162.99
+1982,322.3900044592594,9,0.05,Furniture,North,Same Day,4,96.18
+1983,318.85143840989247,5,0.1,Technology,North,Express,4,84.69
+1984,1134.7512983885135,2,0.3,Office Supplies,South,Standard,5,24.53
+1985,1637.253786393899,10,0.2,Furniture,East,Express,3,157.85
+1986,624.9281272479932,4,0.2,Technology,East,Standard,1,83.01
+1987,600.0932692580996,9,0.5,Technology,South,Standard,2,-22.27
+1988,695.6762338312219,1,0.3,Furniture,East,Express,1,-6.27
+1989,1262.3917856705243,1,0.1,Office Supplies,North,Same Day,2,215.68
+1990,355.2196884136074,7,0.1,Furniture,East,Standard,2,110.54
+1991,768.792173805355,3,0.2,Technology,South,Standard,3,95.8
+1992,1149.2988957762086,10,0.2,Office Supplies,North,Express,5,172.69
+1993,892.8755464702062,2,0.2,Technology,South,Express,1,45.93
+1994,60.025928531509344,9,0.2,Furniture,West,Express,5,31.29
+1995,983.4672253707816,3,0.0,Office Supplies,North,Express,4,243.65
+1996,897.8990752544315,2,0.1,Technology,North,Standard,3,126.52
+1997,1399.4022210983276,8,0.05,Technology,East,Same Day,3,267.43
+1998,1565.2601878224355,10,0.0,Technology,North,Standard,4,327.41
+1999,1360.4525132029903,6,0.0,Furniture,South,Standard,1,411.95
+2000,697.9389407603495,6,0.2,Office Supplies,East,Standard,4,31.45
